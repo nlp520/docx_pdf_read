@@ -1,2 +1,3 @@
 # docx_pdf_read
-python实现对对pdf文件和docx文件的
+python实现对pdf文件和docx文件的读取操作
+doc文件不能直接进行操作，需要安装pypewin32实现对window接口的调用，将doc文件另存为docx文件
